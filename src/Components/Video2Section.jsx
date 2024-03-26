@@ -9,6 +9,7 @@ function Video2Section() {
         h={{ base: "auto", lg: "95vh" }}
         display={"flex"}
         justifyContent={"center"}
+        bg={"white"}
       >
         <Flex
           justifyContent={"space-between"}
