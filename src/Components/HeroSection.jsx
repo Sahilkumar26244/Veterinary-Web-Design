@@ -5,7 +5,7 @@ import { Box, Button, Flex, Image, Text } from "@chakra-ui/react"
 function HeroSection() {
   return (
     <div>
-        <Box mt={"70px"} bg={"#ffc400"} color={"white"} display={"flex"} alignItems={"center"} justifyContent={"center"} p={"50px"} h={{base:"auto",lg:"95vh"}}>
+        <Box mt={"65px"} bg={"#ffc400"} color={"white"} display={"flex"} alignItems={"center"} justifyContent={"center"} p={"50px"} h={{base:"auto",lg:"95vh"}}>
           <Flex alignItems={"center"} w={{base:"90%",lg:"1250px"}} direction={{base:"column",lg:"row"}}>
             <Box w={{base:"100%",lg:"60%"}} display={"flex"} flexDirection={"column"} gap={"20px"}>
               <Box w={{base:"100%",lg:"80%"}}>
