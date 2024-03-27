@@ -83,7 +83,7 @@ import {
                 
                 display={"flex"}
                 alignItems={"center"}
-              
+                w={{base:"auto",lg:"33%"}}
               >
                 <Image src={commonLogo} w={{base:"40px",lg:"70px"}} h={"100%"} objectFit={"contain"} />
                 <Text display={{ base: "none", md: "none", lg: "none", xl: "flex" }} fontSize={"15px"} fontWeight={700}>Company Logo</Text>
@@ -93,8 +93,9 @@ import {
             <Flex
               pl={"0px"}
               pr={"0px"}
-            //   w={"100%"}
-          
+              w={{base:"auto",lg:"33%"}}
+              
+              justifyContent={"center"}
               display={{ base: "none", md: "none", lg: "none", xl: "flex" }}
             >
               <Box display={"flex"} alignItems={"center"}>
@@ -103,7 +104,7 @@ import {
             </Flex>
   
             {/* yha pe lgana */}
-            <Flex  alignItems={"center"} display={{ base: "none", md: "none", lg: "none", xl: "flex" }}>
+            <Flex w={{base:"auto",lg:"33%"}} justifyContent={"flex-end"}  alignItems={"center"} display={{ base: "none", md: "none", lg: "none", xl: "flex" }}>
                 <Flex h={"40px"} boxShadow={"rgba(0, 0, 0, 0.35) 0px 5px 15px"}>
                     <Box w={"80%"} display={"flex"} alignItems={"center"} p={"10px"} color={"white"}>
                         <Input variant={"unstyled"} placeholder="Search" _placeholder={{ color: 'white' }} />

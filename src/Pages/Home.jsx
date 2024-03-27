@@ -6,6 +6,7 @@ import VideoSection from '../Components/VideoSection'
 import DoctorSection from '../Components/DoctorSection'
 import Video2Section from '../Components/Video2Section'
 import DogCategories from '../Components/DogCategories'
+import VetcareSection from '../Components/VetcareSection'
 
 function Home() {
   return (
@@ -16,6 +17,7 @@ function Home() {
         <DoctorSection/>
         <Video2Section/>
         <DogCategories/>
+        <VetcareSection/>
         <Footer/>
     </div>
   )

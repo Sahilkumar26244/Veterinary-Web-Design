@@ -13,11 +13,11 @@ function DogsCard() {
         justifyContent={"center"}
         alignItems={"center"}
       >
-        <Box w={"90%"}>
+        <Box w={"90%"} >
           <Image
             w={"100%"}
             h={"100%"}
-            objectFit={"contain"}
+            objectFit={"contain"} boxShadow={"rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;"}
             src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           />
         </Box>

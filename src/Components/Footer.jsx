@@ -23,7 +23,7 @@ function Footer() {
                 About
               </Text>
               <Box
-                fontSize={{base:"10px",lg:"20px"}}
+                fontSize={{base:"10px",lg:"18px"}}
                 fontWeight={400}
                 display={"flex"}
                 flexDirection={"column"}
@@ -41,7 +41,7 @@ function Footer() {
                 Services
               </Text>
               <Box
-              fontSize={{base:"10px",lg:"20px"}}
+              fontSize={{base:"10px",lg:"18px"}}
                 fontWeight={400}
                 display={"flex"}
                 flexDirection={"column"}
