@@ -16,7 +16,7 @@ function HeroSection() {
               </Box>
               <Box>
                 <Flex gap={"20px"}>
-                  <Button bg={"#00bfcb"} color={"white"} p={"25px 30px"}>Contact Us</Button>
+                  <Button bg={"#00bfcb"} color={"white"} p={"27px 30px"}>Contact Us</Button>
                   <Button variant={"outline"} border={"3px solid white"} color={"white"} p={"25px 30px"}>Our Service</Button>
                 </Flex>
               </Box>
