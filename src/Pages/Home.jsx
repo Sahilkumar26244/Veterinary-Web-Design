@@ -7,6 +7,8 @@ import DoctorSection from '../Components/DoctorSection'
 import Video2Section from '../Components/Video2Section'
 import DogCategories from '../Components/DogCategories'
 import VetcareSection from '../Components/VetcareSection'
+import Poster from '../Components/Poster'
+import RecentPosts from '../Components/RecentPosts'
 
 function Home() {
   return (
@@ -18,6 +20,8 @@ function Home() {
         <Video2Section/>
         <DogCategories/>
         <VetcareSection/>
+        <Poster/>
+        <RecentPosts/>
         <Footer/>
     </div>
   )
