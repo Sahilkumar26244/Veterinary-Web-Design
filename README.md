@@ -6,7 +6,7 @@ A burger is a patty of ground beef grilled and placed between two halves of a bu
 
 ## Screenshots
 
-![App Screenshot](https://res.cloudinary.com/dmzzzl5jj/image/upload/v1711218465/burger-restaurent_udgfna.png)
+![App Screenshot](https://res.cloudinary.com/dmzzzl5jj/image/upload/v1711642174/dog_jax1is.png)
 
 
 
